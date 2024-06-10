@@ -1,0 +1,10 @@
+header{
+    background-color: rgba(48, 48, 45, 0.705);
+    display: flex;
+    justify-content: center;
+
+}
+    
+.cabecalho-imagem{
+width: 20%;
+}
